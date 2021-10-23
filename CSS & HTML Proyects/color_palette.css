@@ -1,0 +1,35 @@
+h2{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+}
+
+td{
+  background-color: black;
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+}
+.art{
+  margin:auto;
+}
+#shape1{
+  background-color: #bdffe1;
+  mar
+
+}
+
+#shape2{
+  background-color: #d7ffed;
+}
+
+#shape3{
+  background-color: #bdfcff;
+}
+
+#shape4{
+  background-color: #f8f0ff;
+}
+
+#shape5{
+  background-color: #e1bdff;
+}
