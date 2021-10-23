@@ -1,0 +1,44 @@
+h1{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color:#FDFFFC;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color:#FDFFFC;
+}
+ body{
+   background-color: #312244;
+   border:40px solid #fb8500;
+   /* border-top: 0px; */
+  border-top: 0px;
+  margin: 0px;
+ padding-bottom: 50px;
+ }
+ p{
+   padding:5% 20%;
+   text-align: center;
+   color: #FDFFFC;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 1.5em;
+ }
+
+.emailform{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+#sub{
+  background-color: #ffb703;
+  height: 80px;
+  width: 150px;
+  margin: 4px;
+  margin-top: 10px;
+  font-size: 1em;
+  border-radius: 25px;
+}
