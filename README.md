@@ -1,2 +1,2 @@
-# Finished_Proyects
+# Finished_Projects
 All finished proyects that i have done
